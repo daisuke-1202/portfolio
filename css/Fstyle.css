@@ -1,0 +1,165 @@
+/* flex 関連 */
+.dfcc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.df{
+    display: flex;
+}
+.dfc{
+    display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+/* margin0auto text-aligncenter */
+.m0a{
+    margin: 0 auto;
+}
+.tac{
+    text-align: center;
+}
+
+/* position absolute　関連 */
+.pr{
+    position: relative;
+}
+.patl{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.patr{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.pabl{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.pabr{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+/* display none block */
+.dn{
+    display: none;
+}
+.db{
+    display: block;
+}
+
+/* font-weight */
+.fwb{
+    font-weight: bold;
+}
+.fwn{
+    font-weight: normal;
+}
+.fwl{
+    font-weight: lighter;
+}
+
+/* width %表記　関連 */
+.w100{
+    width: 100%;
+}
+.w95{
+    width: 95%;
+}
+.w90{
+    width: 90%;
+}
+.w80{
+    width: 80%;
+}
+.w50{
+    width: 50%;
+}
+.w48{
+    width: 48%;
+}
+.w45{
+    width: 45%;
+}
+
+/* height　関連 */
+.ha{
+    height: auto;
+}
+
+/* background repeat 関連 */
+.bgrnr{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/* margin */
+.m4{
+    margin: 4rem;
+}
+.mt4{
+    margin-top: 4rem;
+}
+.ml4{
+    margin-left: 4rem;
+}
+.mb4{
+    margin-bottom: 4rem;
+}
+.mr4{
+    margin-right: 4rem;
+}
+.m2{
+    margin: 2rem;
+}
+.mt2{
+    margin-top: 2rem;
+}
+.ml2{
+    margin-left: 2rem;
+}
+.mb2{
+    margin-bottom: 2rem;
+}
+.mr2{
+    margin-right: 2rem;
+}
+
+/* padding */
+.p4{
+    padding: 4rem;
+}
+.pt4{
+    padding-top: 4rem;
+}
+.pl4{
+    padding-left: 4rem;
+}
+.pb4{
+    padding-bottom: 4rem;
+}
+.pr4{
+    padding-right: 4rem;
+}
+.p2{
+    padding: 2rem;
+}
+.pt2{
+    padding-top: 2rem;
+}
+.pl2{
+    padding-left: 2rem;
+}
+.pb2{
+    padding-bottom: 2rem;
+}
+.pr2{
+    padding-right: 2rem;
+}
